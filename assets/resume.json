@@ -81,22 +81,87 @@
   ],
   "skills": [
     {
-      "name": "Cloud & AWS",
+      "name": "Cloud & DevOps",
       "level": "Advanced",
       "keywords": [
         "AWS EC2",
-        "S3",
-        "Lambda",
-        "API Gateway",
-        "DynamoDB",
-        "RDS",
-        "Serverless Architecture",
-        "AWS Bedrock"
+        "AWS S3",
+        "AWS Lambda",
+        "AWS API Gateway",
+        "AWS VPC",
+        "AWS IAM",
+        "AWS CloudWatch",
+        "AWS CloudTrail",
+        "AWS RDS",
+        "AWS Load Balancer",
+        "AWS Elastic Beanstalk",
+        "AWS Bedrock",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS CodePipeline"
+      ]
+    },
+    {
+      "name": "Linux System Administration",
+      "level": "Intermediate",
+      "keywords": [
+        "Linux / Unix",
+        "Shell Scripting (Bash)",
+        "Process Management",
+        "File Systems",
+        "CLI Tools",
+        "System Monitoring"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Intermediate",
+      "keywords": [
+        "TCP/IP",
+        "DNS",
+        "HTTP",
+        "HTTPS",
+        "Load Balancing",
+        "VPC Fundamentals",
+        "Network Troubleshooting"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Branching Strategies",
+        "Pull Requests",
+        "Code Reviews"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "C",
+        "SQL",
+        "Object-Oriented Programming (OOP)",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Monitoring & Observability",
+      "level": "Intermediate",
+      "keywords": [
+        "Grafana",
+        "AWS CloudWatch"
       ]
     },
     {
       "name": "Frontend",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Angular",
         "TypeScript",
@@ -107,7 +172,7 @@
     },
     {
       "name": "Backend",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Node.js",
         "REST APIs",
@@ -115,28 +180,11 @@
       ]
     },
     {
-      "name": "Languages",
-      "level": "Advanced",
-      "keywords": [
-        "JavaScript",
-        "TypeScript",
-        "C++",
-        "Java",
-        "C",
-        "Python",
-        "SQL"
-      ]
-    },
-    {
       "name": "DevOps & Tools",
       "level": "Intermediate",
       "keywords": [
-        "Docker",
         "Vercel",
-        "CodePipeline",
         "GitHub Actions",
-        "Git",
-        "Linux / CLI",
         "Postman"
       ]
     }
@@ -273,7 +321,7 @@
   "meta": {
     "canonical": "",
     "version": "v1.0.0",
-    "lastModified": "2026-06-05",
+    "lastModified": "2026-06-25",
     "x-theme": "cyberpunk"
   }
 }
